@@ -20,7 +20,7 @@ Make sure you start the live server. Now let’s import the stylesheet from `nod
 ![css import](https://user-images.githubusercontent.com/18662979/155153308-d196441d-1363-4dbb-a248-42eb02146a0d.png)
 
 <br/>
-If we scroll all the way to the bottom, we will find `bootstrap.css`.
+If we scroll all the way to the bottom, we will find `bootstrap.css`
 <br/>
 For the script, we will do the same using the script tag. The defer attribute will ensure the JavaScript file is downloaded and ready by the time the DOM is done rendering.
 
