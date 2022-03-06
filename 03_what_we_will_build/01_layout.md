@@ -21,10 +21,9 @@ It can be divided into a `header`, `main`, and `footer`. Therefore, we will use 
     <title>Document</title>
 </head>
 <body>
-    <header>
-    </header>
-    <main></main>
-    <footer></footer>
+    <header> <!-- HEADER HERE --> </header>
+    <main> <!-- MAIN HERE --> </main>
+    <footer> <!-- FOOTER HERE --> </footer>
 </body>
 </html>
 ```
